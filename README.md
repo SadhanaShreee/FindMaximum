@@ -41,17 +41,23 @@ iii) # To find the maximum marks without using builtin functions
 ## Output:
 i)	# To find the maximum of marks using the list method sort
 
+
 ![Screenshot 2024-03-30 203040](https://github.com/SadhanaShreee/FindMaximum/assets/144517664/47a0828f-77b2-440c-b54f-142de41b490b)
+
 
 
 ii)	# To find the maximum marks using the list method max()
 
+
 ![Screenshot 2024-03-30 203206](https://github.com/SadhanaShreee/FindMaximum/assets/144517664/e9749f81-fec5-479b-9eba-ae18bf7066b0)
+
 
 
 iii) # To find the maximum marks without using builtin functions
 
+
 ![Screenshot 2024-03-30 203222](https://github.com/SadhanaShreee/FindMaximum/assets/144517664/de40c795-6e84-4937-abfb-29377fdb3b31)
+
 
 
 ## Result:
